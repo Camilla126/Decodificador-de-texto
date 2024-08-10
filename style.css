@@ -11,3 +11,9 @@
   padding-top: 10px;
   width: 2%;
 }
+
+main {
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 80px;
+}
