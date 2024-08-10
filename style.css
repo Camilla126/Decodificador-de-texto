@@ -16,4 +16,11 @@ main {
   display: flex;
   margin-bottom: 50px;
   margin-left: 80px;
+  
+}
+
+.text-area{
+    border: none;
+    margin-top: 90px;
+    text-transform: lowercase;
 }
