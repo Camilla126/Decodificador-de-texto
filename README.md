@@ -1,13 +1,15 @@
 <h1>Bem vindos ao meu Decodificador de texto da Alura</h1>
-<h2>Descrição do projeto</h2>
+
+<h2>Descrição</h2>
 
 <p align="justify">
- Esse é um desafio para colocar em prática os meus conhecimentos adquiridos na tilha de desenvolvimento ONE.</p>
-<p>Foram aplicados conhecimentos básicos em HTML5, CSS3 e JavaScript. Foi desafiador e eu gosto disso.</p>
+Este projeto é um decodificador de texto que permite que os usuários insiram um texto para ser criptografado e descriptografar.</p>
+
+<p>Este desafio foi proposto pela Alura, colocando em prática o que aprendi na trilha ONE. Confesso que foi desafiador mas pude contar com a ajuda de meus colegas, tornando a resolução do desafio possivel.</p>
 
 <div align="center">
 
-![Decodificador](imagens_README/app_print.png)
+![Decodificador](assets/foto.png)
 
 </div>
 
@@ -23,7 +25,7 @@ Agora é só clicar no botão `Descriptografar` para ver o texto descriptografad
 
 <div align="center">
 
-![Funcionando no PC](imagens_README/videoapp.gif)
+![Funcionando no PC](assets/apresentacaoDoProjeto.gif)
 
   </div>
 
@@ -31,8 +33,8 @@ Agora é só clicar no botão `Descriptografar` para ver o texto descriptografad
 
 ## Ferramentas Utilizadas
 
-<a href="https://www.w3.org/TR/2011/WD-html5-20110405/index.html" target="_blank"> <img src="imagens_README/HTML5.png" width="40" height="40"/></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="imagens_README/CSS3.png"  width="45" height="45"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="imagens_README/JS.png" alt="firebase" width="45" height="45"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="imagens_README/vsc.svg" alt="firebase" width="45" height="45"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="40"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="80" height="40"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="firebase" width="80" height="40"/>
 
-## Download
+### Link da aplicação
 
-Ficou curioso(a)? Teste com seus amigos(as) a mande mensagens secretas para eles(as). Acesse o aplicativo através do <a href="https://decodificador-de-texto-alura-challenges-oracle-one.vercel.app/" target="_blank"><strong>link</strong></a>.
+<a href="https://decodificador-de-texto-ashy.vercel.app/" target="_blank"><strong>Decodificador de texto</strong></a>
