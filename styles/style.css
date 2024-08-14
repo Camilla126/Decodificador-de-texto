@@ -204,7 +204,6 @@ body {
   }
 }
 
-/* Esta seção de 'medias' faz ajustes para atender requisitos de design*/
 @media screen and (max-width: 780px) {
   .alerta {
     padding-left: 10%;
