@@ -1,17 +1,19 @@
 <h1>Bem vindos ao meu Decodificador de texto da Alura</h1>
 
-<h2>Descrição</h2>
+## Descrição
 
 <p align="justify">
 Este projeto é um decodificador de texto que permite que os usuários insiram um texto para ser criptografado e descriptografar.</p>
 
 <p>Este desafio foi proposto pela Alura, colocando em prática o que aprendi na trilha ONE. Confesso que foi desafiador mas pude contar com a ajuda de meus colegas, tornando a resolução do desafio possivel.</p>
 
-<div align="center">
+<div align="center"></div>
+
+## Ferramentas Utilizadas
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="40"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="80" height="40"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="firebase" width="80" height="40"/>
 
 ![Decodificador](assets/foto.png)
-
-</div>
 
 ## Funcionalidade
 
@@ -25,15 +27,11 @@ Agora é só clicar no botão `Descriptografar` para ver o texto descriptografad
 
 <div align="center">
 
-![Funcionando no PC](assets/apresentacaoDoProjeto.gif)
+![Funcionando no PC](assets/ProjetoEmExecução.gif)
 
   </div>
 
 ###
-
-## Ferramentas Utilizadas
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="40"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="80" height="40"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="firebase" width="80" height="40"/>
 
 ### Link da aplicação
 
