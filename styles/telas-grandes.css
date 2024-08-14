@@ -200,29 +200,3 @@ body {
   background-color: var(--cor-botao-hover);
   color: white;
 }
-
-footer {
-  grid-column: 1 / 3;
-  grid-row: 5;
-  place-self: end;
-  background-color: #0a3871;
-  color: white;
-  border-radius: 24px;
-  text-align: center;
-  padding: 12px 0px 10px 0px;
-  width: 100%;
-}
-
-footer a {
-  color: white;
-  text-decoration: none;
-}
-
-footer a:hover {
-  color: #a8a9af;
-}
-
-footer img {
-  transform: translate(16%, 14%);
-  margin: -10px 0 0 0;
-}
