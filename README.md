@@ -13,8 +13,6 @@ Este projeto é um decodificador de texto que permite que os usuários insiram u
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="40"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  width="80" height="40"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="firebase" width="80" height="40"/>
 
-![Decodificador](assets/foto.png)
-
 ## Funcionalidade
 
 Digite um texto qualquer na área `Digite seu texto` usando letras minúsculas e sem acento, depois clique no botão `Criptografar` para ter o seu texto criptografado.
